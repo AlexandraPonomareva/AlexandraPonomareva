@@ -1,0 +1,29 @@
+*{
+		border: 1px solid red;
+
+	
+}
+.gggg{
+	float:right;
+	width:100%;
+	height:20%;
+	background-image:url("background.jpg");
+}
+.hh{
+	float:left;
+	height:61%;
+
+}
+.uuu{
+	 float:left;
+	 width:28.6%;
+	 height:30.4%;
+	 
+	 
+}
+h1{
+	font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 230%; /* Размер шрифта в процентах */ 
+   } 
+	
+	
